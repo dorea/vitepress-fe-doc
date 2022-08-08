@@ -1,0 +1,30 @@
+{
+  "name": "vitepress-fe-doc",
+  "version": "1.0.0",
+  "description": "document",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs --open",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorea/vitepress-fe-doc.git"
+  },
+  "keywords": [
+    "vitepress",
+    "vue",
+    "vscode"
+  ],
+  "author": "ss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorea/vitepress-fe-doc/issues"
+  },
+  "homepage": "https://github.com/dorea/vitepress-fe-doc#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4"
+  }
+}
